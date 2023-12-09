@@ -6,7 +6,7 @@ if (
 ) {
   API_URL = "http://localhost:8080/api";
 } else {
-  API_URL = "https://greenplate-backends.azurewebsites.net/api";
+  API_URL = "https://greenplatebackend.azurewebsites.net/api";
 }
 
 export { API_URL };
